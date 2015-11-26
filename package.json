@@ -1,7 +1,7 @@
 {
-  "name": "react-share",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-action",
+  "version": "1.1.0",
+  "description": "A small React component with animation",
   "scripts": {
     "clean": "rimraf dist",
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ScholtenSeb/react-action.git"
   },
   "author": "Sebastian Scholten",
   "devDependencies": {
